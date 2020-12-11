@@ -1,0 +1,3 @@
+inserting in file 1
+:wq
+:

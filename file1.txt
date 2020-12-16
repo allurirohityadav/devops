@@ -1,3 +1,5 @@
-inserting in file 1
-:wq
-:
+
+
+
+entering data into file1 from feature brach
+
